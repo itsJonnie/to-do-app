@@ -1,5 +1,3 @@
-Absolutely! Here's a clean and professional `README.md` for your **Python CLI Todo App** — suitable for GitHub or sharing with others:
-
 ---
 
 ## ✅ Python Todo App (CLI)
